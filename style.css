@@ -15,6 +15,11 @@ body {
     display: flex;
     flex-wrap: wrap;
     border: solid 1px black;
+    margin-bottom: 40px;
+}
+
+#info {
+    font-size: 25px;
 }
 
 .square {
